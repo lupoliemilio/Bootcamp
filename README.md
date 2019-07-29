@@ -1,10 +1,10 @@
 # **Bootcamp**
 
-## **Introduktion**
+## Introduktion
 
-## **Gennemgang af hovedforløbets indhold**
+## Gennemgang af hovedforløbets indhold
 
-## **Lær hinanden at kende**
+## Lær hinanden at kende**
 
 
 
