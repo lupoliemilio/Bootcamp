@@ -39,4 +39,4 @@ Da I selv kan bestemme i hvilken rækkefølge I vil løse delopgaverne, er det v
 * Local Storage
 * Dataservices (JSON, Fetch, API)
 * Alternativer til innerHTML
-* Timere
+* Timers
