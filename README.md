@@ -38,5 +38,5 @@ Da I selv kan bestemme i hvilken rækkefølge I vil løse delopgaverne, er det v
 	* HTML5 validering (required attributten) kontra custom JS validering
 * Local Storage
 * Dataservices (JSON, Fetch, API)
-* Alternativer til innerHTML
+* Alternativer til innerHTML (Create element)
 * Timers
