@@ -8,6 +8,14 @@
 
 
 <br><br>
+## **Undervisning**
+
+Der bliver undervist i dét omfang, der er brug for inden for hvert emen.
+
+Da I selv kan bestemme i hvilken rækkefølge I vil løse delopgaverne, er det vigtigt, at I er opmærksomme på, hvornår der bliver undervist i et emne, I ikke føler I selv ville kunne takle.
+
+
+<br><br>
 ## **Overordnede emner**
 
 *(Rækkefølgen er ikke fastsat)*
@@ -31,15 +39,6 @@
 * Local Storage
 * Dataservices (JSON, Fetch, API)
 * Alternativer til innerHTML
-* Timers
-
-
-<br><br>
-## **Undervisning**
-
-Der bliver undervist i dét omfang, der er brug for inden for hvert emen.
-
-Da I selv kan bestemme i hvilken rækkefølge I vil løse delopgaverne, er det vigtigt, at I er opmærksomme på, hvornår der bliver undervist i et emne, I ikke føler I selv ville kunne takle.
 
 
 <br><br>
