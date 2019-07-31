@@ -1,6 +1,6 @@
 # Projektopgave HI-FI Corner
 
-**Varighed:** 5 dage<br>
+**Varighed:** 10 dage<br>
 **Start:** Dato kommer <br>
 **Slut:** Dato kommer
 
