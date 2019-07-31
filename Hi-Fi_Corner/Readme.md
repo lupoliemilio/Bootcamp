@@ -4,6 +4,7 @@
 **Start:** Dato kommer <br>
 **Slut:** Dato kommer
 
+<br><br>
 ## Om opgaven
 Denne opgave er omhandler opsætning, navigation og hentning af data. Læs hele opgavebeskrivelsen grundigt igennem inden du stiller spørgsmål.
 
@@ -36,7 +37,6 @@ Produktet skal designes efter mobile first princippet, men nødvendigvis ikke im
 * Byg alle nødvendige fetch, og udskriv data fra fetch.
 * Dokumentér kode og funktionalitet i markdown-filer 
 
-
 ### Sider og indhold
 * Forside
 * Brand-liste
@@ -63,7 +63,7 @@ Alle produkter hentes via et API og udskrives med fetch, alle produkter vises me
 * Footer med kontaktinfo 
 
 ### Github
-* Projektet opsættes i et GitHub repo - husk at invitere din lærer som collaborator.
+* Projektet opsættes i et GitHub Classroom.
 * Der skal committes ved væsentlige ændringer eller færdiggørelse af en funktionalitet - og altid inden fyraften.
 * Alle commit tekster på GitHub skal kort beskrive ændringerne. **Der må ikke skrives ligegyldige beskrivelser!**.
 
@@ -74,7 +74,6 @@ Du vælger om alle billeder skal ligge i én mappe eller om du vil bevare mappes
 
 Brug følgende liste, hvis I er i tvivl om hvilke kategorier de forskellige billeder tilhører:
 
-  
 **CD Afspillere**
 
     * creek_classic_cd.jpg
@@ -141,6 +140,8 @@ Brug følgende liste, hvis I er i tvivl om hvilke kategorier de forskellige bill
     * jolida_JD302b.jpg
     * jolida_JD502b.jpg 
  
+ 
+<br><br>
 ## EKSTRAOPGAVE
 Hvis du er hurtigt færdig!
 
