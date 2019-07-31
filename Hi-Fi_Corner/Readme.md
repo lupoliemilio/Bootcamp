@@ -1,5 +1,9 @@
 # Projektopgave HI-FI Corner
 
+**Varighed:** 5 dage<br>
+**Start:** Dato kommer <br>
+**Slut:** Dato kommer
+
 ## Om opgaven
 Denne opgave er omhandler opsætning, navigation og hentning af data. Læs hele opgavebeskrivelsen grundigt igennem inden du stiller spørgsmål.
 
