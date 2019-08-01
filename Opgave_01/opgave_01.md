@@ -1,5 +1,5 @@
 
-## **Opgave 01 (Website)**
+## **Opgave 01 ( Website )**
 Vi skal bruge en feature på GitHub, som hedder **Classroom Assignment**, der gør det nemmere for lærere at modtage og administrere **afleveringer**. Når du har accepteret en assignment, så oprettes der automatisk et privat repository til dig og læreren får automatisk adgang til dit private repository
 
 <br>
