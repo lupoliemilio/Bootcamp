@@ -3,7 +3,7 @@
 Vi skal bruge en feature på GitHub, som hedder **Classroom Assignment**, der gør det nemmere for lærere at modtage og administrere **afleveringer**. Når du har accepteret en assignment, så oprettes der automatisk et privat repository til dig og læreren får automatisk adgang til dit private repository
 
 <br>
-Da du får brug for at hente data fra en **API** skal du huske, at du får brug for **localhost** *(vha. XAMPP, Live Server extension i VSCode eller lignende)*.
+Da du får brug for at hente data fra en API skal du huske, at du får brug for localhost (vha. XAMPP, Live Server extension i VSCode eller lignende)*.
 
 
 ### **Krav**
