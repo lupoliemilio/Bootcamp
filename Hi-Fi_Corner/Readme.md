@@ -26,7 +26,7 @@ Du skal udarbejde en teknisk designanalyse, som redegør for hvordan elementerne
 Produktet skal designes efter mobile first princippet, men nødvendigvis ikke implementeret til begge medier *(prioriter browser varianten som den primære der produceres)*.
 
 ### Forslag til arbejdsprocess
-* Planlægning: Afklaring af opgavens indhold defineret i en opgaveoversigt (husk hvad I har arbejdet med i Projektorganiseringsfaget)
+* Projekt planlægning: Afklaring af opgavens indhold defineret i en opgaveoversigt
 * Layout: Udarbejdelse af teknisk designanalyse.
 * Design datastrukturer i JSON.
 * GODKENDELSE AF OVENSTÅENDE inden der kodes videre.
@@ -68,9 +68,7 @@ Alle produkter hentes via et API og udskrives med fetch, alle produkter vises me
 
 ### Billedfiler
 Alle billeder ligger i en zippet fil fordelt i mapper.
-
 Du vælger om alle billeder skal ligge i én mappe eller om du vil bevare mappestrukturen.
-
 Brug følgende liste, hvis I er i tvivl om hvilke kategorier de forskellige billeder tilhører:
 
 **CD Afspillere**
