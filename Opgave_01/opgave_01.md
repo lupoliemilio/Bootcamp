@@ -13,7 +13,7 @@ Du skal bygge et website, som opfylder følgende krav:
 
 * Websitets emne og tema vælger du selv. Vælg noget der motiverer dig.
 
-* Websitet skal være pænt. Hvis du ikke er god til design, farver, osv., så bed holdkammeraterne om hjælp eller lad dig inspirere af andre sider på nettet, men lad være med at hugge et helt template. Du SKAL have styr på HTML'en og CSS'en.
+* Websitet skal være nutidigt og følge de designtrends som er oppe i tiden. Lad dig inspirere af andre sider på nettet, men lad være med at hugge et helt template. Du SKAL have styr på HTML'en og CSS'en.
 
 * Websitet skal være responsivt og understøtte mindst 2 skærmstørrelser (f.eks. desktop og mobil).
 
