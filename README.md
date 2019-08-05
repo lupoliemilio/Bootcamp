@@ -20,23 +20,15 @@ Da I selv kan bestemme i hvilken rækkefølge I vil løse delopgaverne, er det v
 
 *(Rækkefølgen er ikke fastsat)*
 
+* Validering af form data
+* Navigations UI
+* Dataservices (JSON, Fetch, API)
+* Local Storage
+* Alternativer til innerHTML (Create element)
+* Designanalyse
+* Tekniske designanalyse (Semantik)
+* Query Strings i url (URL params).
+
 * Responsive web
 * Webdesign
-* Navigation
-* Burger menu
-* Formular
-	* On submit
-	* Aflæse felternes værdier
-	* Ændre felternes værdier
-	* Validering: Antal tegn
-	* Validering: Tillad kun tal
-	* Validering: Tillad kun tekst
-	* Validering: Email
-	* Validering: Dropdown
-	* Validering: Radiobutton
-	* Feedback til brugeren
-	* HTML5 validering (required attributten) kontra custom JS validering
-* Local Storage
-* Dataservices (JSON, Fetch, API)
-* Alternativer til innerHTML (Create element)
 * Timers
