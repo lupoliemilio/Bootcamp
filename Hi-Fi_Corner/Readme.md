@@ -23,7 +23,7 @@ Et HI-FI produkt består af et navn, en beskrivelse, en pris, et billede, samt h
 
 ### Design og layout
 Du skal udarbejde en teknisk designanalyse, som redegør for hvordan elementerne på hjemmesiden er bygget op.<br>
-Produktet skal designes efter mobile first princippet, men nødvendigvis ikke implementeret til begge medier *(prioriter browser varianten som den primære der produceres)*.
+Produktet skal designes efter mobile first princippet, men nødvendigvis ikke implementeret til begge medier *(prioriter desktop varianten som den primære der produceres. Breakpointet der arbejdes udfra er 1280px)*.
 
 ### Forslag til arbejdsprocess
 * Projekt planlægning: Afklaring af opgavens indhold defineret i en opgaveoversigt
