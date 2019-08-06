@@ -40,7 +40,6 @@ Produktet skal designes efter mobile first princippet, men nødvendigvis ikke im
 * Opret datafiler (JSON)
 * Programmér funktioner til dataudtræk
 * Byg alle nødvendige fetch, og udskriv data fra fetch
-* Dokumentér din JSON data-struktur i en <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">markdown-fil</a>
 
 ### Sider og indhold
 * Forside
