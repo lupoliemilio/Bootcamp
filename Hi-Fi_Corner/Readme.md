@@ -145,7 +145,7 @@ Brug følgende liste, hvis I er i tvivl om hvilke kategorier de forskellige bill
  
 
 <br><br>
-## EKSTRAOPGAVE
+## EKSTRAOPGAVER
 Hvis du er hurtigt færdig!
 
 1. Udvikel et billedgalleri til forsiden som skifter mellem billederne på en af følgende måder:
