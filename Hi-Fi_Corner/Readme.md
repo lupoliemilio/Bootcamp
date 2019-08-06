@@ -71,14 +71,6 @@ Alle produkter hentes via et API og udskrives med fetch, alle produkter vises me
 * Der skal committes ved væsentlige ændringer eller færdiggørelse af en funktionalitet - og altid inden fyraften.
 * Alle commit tekster på GitHub skal kort beskrive ændringerne. **Der må ikke skrives ligegyldige beskrivelser!**.
 
-### Ekstra opgaver
-Udvikel et billedgalleri til forsiden som skifter mellem billederne på en af følgende måder:
-* Automatisk (Timer)
-* Manuelt (Ved tryk på pile ikonerne)
-* Manuelt (Ved tryk på piletasterne)
-
-
-
 ### Billedfiler
 Alle billeder ligger i en zippet fil fordelt i mapper.
 Du vælger om alle billeder skal ligge i én mappe eller om du vil bevare mappestrukturen.
@@ -151,8 +143,14 @@ Brug følgende liste, hvis I er i tvivl om hvilke kategorier de forskellige bill
     * Pro_ject_rpm_5.jpg
     * Pro_ject_rpm10.jpg
  
+
 <br><br>
 ## EKSTRAOPGAVE
 Hvis du er hurtigt færdig!
 
-Indsæt reklmebannere på hjemmesiden. Du skal selv beslutte hvor på siden reklamebannere vil passe ind. Find et API på nettet, som lader dig fetche bannere og indsæt vilkårlige bannere på hjemmesiden.
+1. Udvikel et billedgalleri til forsiden som skifter mellem billederne på en af følgende måder:
+* Automatisk (Timer)
+* Manuelt (Ved tryk på pile ikonerne)
+* Manuelt (Ved tryk på piletasterne)
+
+2. Indsæt reklmebannere på hjemmesiden. Du skal selv beslutte hvor på siden reklamebannere vil passe ind. Find et API på nettet, som lader dig fetche bannere og indsæt vilkårlige bannere på hjemmesiden.
