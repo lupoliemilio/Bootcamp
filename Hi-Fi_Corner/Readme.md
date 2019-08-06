@@ -19,7 +19,7 @@ Et HI-FI produkt består af et navn, en beskrivelse, en pris, et billede, samt h
 *(billederne findes i den medfølgende .zip fil, men alle andre produktdata finder du selv på noget, benyt evt https://lipsum.com/feed/html )*
 
 ### Tekniske krav
-**Client-Side** skal løses vha. HTML, CSS og Javascript, som ved hjælp af fetch-api'et henter data. Det er tilladt, at bruge Bootstrap og lignende frameworks. Det er ikke et krav.
+**Client-Side** skal løses vha. HTML, CSS og Javascript, som ved hjælp af fetch-api'et henter data.
 
 ### Design og layout
 Du skal udarbejde en teknisk designanalyse, som redegør for hvordan elementerne på hjemmesiden er bygget op.<br>
