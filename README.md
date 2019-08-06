@@ -32,7 +32,6 @@ Da I selv kan bestemme i hvilken rækkefølge I vil løse delopgaverne, er det v
 * Local Storage
 * Alternativer til innerHTML (Create element)
 * Layoutanalyse
-* Tekniske designanalyse (Semantik)
 * Query Strings i url (URL params).
 
 * Responsive web
