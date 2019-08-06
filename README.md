@@ -20,6 +20,12 @@ Da I selv kan bestemme i hvilken rækkefølge I vil løse delopgaverne, er det v
 
 *(Rækkefølgen er ikke fastsat)*
 
+* Projekt planlægning
+* Live Server ol.
+* HTML 
+* CSS
+* GitHub
+* Grundlæggende programmering
 * Validering af form data
 * Navigations UI
 * Dataservices (JSON, Fetch, API)
