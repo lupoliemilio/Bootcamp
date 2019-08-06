@@ -7,6 +7,7 @@
 3. Lær hinanden at kende
 
 <br>
+
 ## **Undervisning**
 
 Der bliver undervist i dét omfang, der er brug for inden for hvert emen.
@@ -14,6 +15,7 @@ Der bliver undervist i dét omfang, der er brug for inden for hvert emen.
 Da I selv kan bestemme i hvilken rækkefølge I vil løse delopgaverne, er det vigtigt, at I er opmærksomme på, hvornår der bliver undervist i et emne, I ikke føler I selv ville kunne takle.
 
 <br>
+
 ## **Overordnede emner**
 
 *(Rækkefølgen er ikke fastsat)*
@@ -30,7 +32,7 @@ Da I selv kan bestemme i hvilken rækkefølge I vil løse delopgaverne, er det v
 * Local Storage
 * Alternativer til innerHTML (Create element)
 * Layoutanalyse
-* Query Strings i url (URL params).
+* Query Strings i url (URL params)
 * Responsive web
 * Webdesign
 * Timers
