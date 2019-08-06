@@ -32,15 +32,15 @@ Du skal udarbejde en layoutanalyse, som redegør for hvordan elementerne på hje
 Produktet skal designes efter mobile first princippet, men nødvendigvis ikke implementeret til begge medier *(prioriter desktop varianten som den primære der produceres. Breakpointet der arbejdes udfra er 1280px)*.
 
 ### Forslag til arbejdsprocess
-* Projekt planlægning: Afklaring af opgavens indhold defineret i en opgaveoversigt
-* Layout: Udarbejdelse af teknisk designanalyse.
-* Design datastrukturer i JSON.
-* GODKENDELSE AF OVENSTÅENDE inden der kodes videre.
-* Opsæt HTML sider med navigation og dummy-data (statisk site)
+* Projekt planlægning: Afklaring af opgavens indhold defineret i et Kanban bord
+* Layout: Udarbejdelse af layoutanalyse
+* Design datastrukturer i JSON
+* GODKENDELSE AF OVENSTÅENDE inden arbjedet fortsættes
+* Opsæt HTML sider med dummy-data (statisk site)
 * Opret datafiler (JSON)
 * Programmér funktioner til dataudtræk
-* Byg alle nødvendige fetch, og udskriv data fra fetch.
-* Dokumentér kode og funktionalitet i markdown-filer 
+* Byg alle nødvendige fetch, og udskriv data fra fetch
+* Dokumentér din JSON data-struktur i en <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">markdown-fil</a>
 
 ### Sider og indhold
 * Forside
