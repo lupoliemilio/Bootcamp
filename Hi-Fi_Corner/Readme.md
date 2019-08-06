@@ -23,7 +23,7 @@ Et HI-FI produkt består af et navn, en beskrivelse, en pris, et billede, samt h
 **Client-Side**
 * Semantisk korrekt HTML
 * Modulært opbygget CSS (Flere css filer)
-* Modulært struktureret JavaScript (Object Literels, Revealing Module Patterns)
+* Modulært struktureret JavaScript (<a href="https://www.youtube.com/watch?v=7d9H34ZVRPg" target="_blank">Object Literals</a>, Revealing Module Patterns)
 * Hente data ved hjælp af fetch-api'et. (HTML/ JSON)
 * Begrænset data udtræk ved hjælp af url parametre
 
