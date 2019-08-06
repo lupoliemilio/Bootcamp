@@ -50,7 +50,7 @@ Produktet skal designes efter mobile first princippet, men nødvendigvis ikke im
  
 ### Forsiden 
 * Forsidetekst og billeder af produkter
-* Visning af ét eller flere udvalgte produkter (kan være de senest oprettede, et tilfældigt produkt eller andet du finder relevant)
+* Visning af minimum ét produktbillede (kan være det senest oprettede, et tilfældigt produkt eller andet du finder relevant)
  
 ### Produktsider
 Der er flere forskellige funktioner under produkter:
@@ -71,77 +71,70 @@ Alle produkter hentes via et API og udskrives med fetch, alle produkter vises me
 * Der skal committes ved væsentlige ændringer eller færdiggørelse af en funktionalitet - og altid inden fyraften.
 * Alle commit tekster på GitHub skal kort beskrive ændringerne. **Der må ikke skrives ligegyldige beskrivelser!**.
 
+### Ekstra opgaver
+Udvikel et billedgalleri til forsiden som skifter mellem billederne på en af følgende måder:
+* Automatisk (Timer)
+* Manuelt (Ved tryk på pile ikonerne)
+* Manuelt (Ved tryk på piletasterne)
+
+
+
 ### Billedfiler
 Alle billeder ligger i en zippet fil fordelt i mapper.
 Du vælger om alle billeder skal ligge i én mappe eller om du vil bevare mappestrukturen.
 Brug følgende liste, hvis I er i tvivl om hvilke kategorier de forskellige billeder tilhører:
 
 **CD Afspillere**
-
     * creek_classic_cd.jpg
     * creek_Destiny_CD.jpg
     * creek_evo_cd.jpg
     * Exp_2010S_CD.gif
 
-
 **DVD Afspillere**
-
     * creek_classic.jpg
     * exposure_2010S.jpg
     * parasound_d200.jpg
     * parasound_halod3.jpg
 
 **Effektforstærkere**
-
     * manley_mahi.jpg
     * manley_neoclassic300b.jpg
     * manley_snapper.jpg
     * parasound_haloa23.jpg
 
-
 **Forforstærkere**
-
     * Creek_OBH_22_Passive_Preamp.jpg
     * parasound_classic7100.jpg
     * parasound_halop3.jpg
     * Project_prebox.jpg
 
-
+**Int. Forstærkere**
+    * creek_a50I.jpg
+    * creek_classic5350SE.jpg
+    * creek_destinyamp.jpg
+    * manley_snapper.jpg
+    * Manley_Stingray.jpg
+    
+**Rørforstærkere**
+    * jolida_JD102b.jpg
+    * jolida_JD202a.jpg
+    * jolida_JD300b.jpg
+    * jolida_JD302b.jpg
+    * jolida_JD502b.jpg 
+    
 **Højtalere**
-
     * boesendorfer_vcs_wall.gif
     * epos_m5.gif
     * harbeth_hl7es2.jpg
     * harbeth_monitor30.jpg
     * harbeth_p3es2.jpg
 
-
-**Int. Forstærkere**
-
-    * creek_a50I.jpg
-    * creek_classic5350SE.jpg
-    * creek_destinyamp.jpg
-    * manley_snapper.jpg
-    * Manley_Stingray.jpg
-
-
 **Pladespillere**
-
     * Pro_ject_Debut_3_bl.jpg
     * Pro_ject_Debut_III_red_1.jpg
     * Pro_ject_Debut_III_yellow_1.jpg
     * Pro_ject_rpm_5.jpg
     * Pro_ject_rpm10.jpg
-
-
-**Rørforstærkere**
-
-    * jolida_JD102b.jpg
-    * jolida_JD202a.jpg
-    * jolida_JD300b.jpg
-    * jolida_JD302b.jpg
-    * jolida_JD502b.jpg 
- 
  
 <br><br>
 ## EKSTRAOPGAVE
