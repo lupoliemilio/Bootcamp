@@ -31,7 +31,7 @@ Da I selv kan bestemme i hvilken rækkefølge I vil løse delopgaverne, er det v
 * Dataservices (JSON, Fetch, API)
 * Local Storage
 * Alternativer til innerHTML (Create element)
-* Designanalyse
+* Layoutanalyse
 * Tekniske designanalyse (Semantik)
 * Query Strings i url (URL params).
 
