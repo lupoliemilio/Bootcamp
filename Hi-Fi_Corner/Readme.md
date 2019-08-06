@@ -154,3 +154,22 @@ Hvis du er hurtigt færdig!
 * Manuelt (Ved tryk på piletasterne)
 
 2. Indsæt reklmebannere på hjemmesiden. Du skal selv beslutte hvor på siden reklamebannere vil passe ind. Find et API på nettet, som lader dig fetche bannere og indsæt vilkårlige bannere på hjemmesiden.
+
+---
+
+## **Refleksion efter opgaven**
+
+Når tiden er gået, skal du kort **reflektere over, hvordan det gik**. Dette skal du gøre **skriftligt** i en **"Refleksioner" markdown-fil** i roden af dit repository.
+
+Her er et **eksempel** på, hvordan indholdet af filen kunne se ud:<br>
+[Skabeloner/Refleksioner.md](/Skabeloner/Refleksioner.md)
+
+I "Refleksioner" markdown-filen skal der være en **overskrift til hver opgave** du ønsker at skrive om, som vist i ovenstående eksempel.
+
+**Hvis du ikke blev færdig**, skriv kort om hvad der var af **forhindringer**. <br>
+Føler du, at du koder for langsomt? <br>
+Har du svært ved at finde kode du kan genbruge? <br>
+Mister du overblikket?<br>
+osv.
+
+**Hvis du syntes det gik godt**, så skriv det. <br>Nævn specielt om du syntes opgaven var **nem** eller **tilpas** og fortæl hvad du synes om den type opgaver. Det er IKKE arrogant at sige, at opgaven er nem! Det er et tegn på, at du er rigtig godt med fagligt.
