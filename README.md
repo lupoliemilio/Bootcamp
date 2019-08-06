@@ -18,7 +18,7 @@ Da I selv kan bestemme i hvilken rækkefølge I vil løse delopgaverne, er det v
 
 ## **Overordnede emner**
 
-*(Rækkefølgen er ikke fastsat)*
+*(Rækkefølgen er ikke kronologisk)*
 
 * Projekt planlægning
 * Live Server ol.
