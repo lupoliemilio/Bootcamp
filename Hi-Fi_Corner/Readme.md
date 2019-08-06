@@ -145,7 +145,7 @@ Brug følgende liste, hvis I er i tvivl om hvilke kategorier de forskellige bill
  
 
 <br><br>
-## EKSTRAOPGAVER
+## Ekstraopgaver
 Hvis du er hurtigt færdig!
 
 1. Udvikel et billedgalleri til forsiden som skifter mellem billederne på en af følgende måder:
@@ -155,7 +155,9 @@ Hvis du er hurtigt færdig!
 
 2. Indsæt reklmebannere på hjemmesiden. Du skal selv beslutte hvor på siden reklamebannere vil passe ind. Find et API på nettet, som lader dig fetche bannere og indsæt vilkårlige bannere på hjemmesiden.
 
+<br>
 ---
+<br>
 
 ## **Refleksion efter opgaven**
 
