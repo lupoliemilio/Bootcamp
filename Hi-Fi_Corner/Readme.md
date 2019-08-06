@@ -155,9 +155,7 @@ Hvis du er hurtigt færdig!
 
 2. Indsæt reklmebannere på hjemmesiden. Du skal selv beslutte hvor på siden reklamebannere vil passe ind. Find et API på nettet, som lader dig fetche bannere og indsæt vilkårlige bannere på hjemmesiden.
 
-<br>
 ---
-<br>
 
 ## **Refleksion efter opgaven**
 
